@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/leo/Desktop/ysupat/ysurally-1/main.cpp
+iostream
+-
+algorithm
+-
+cstdio
+-
+cmath
+-
+string
+-
+string.h
+-
+

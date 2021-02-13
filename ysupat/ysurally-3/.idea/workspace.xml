@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ysurally_3" targetName="ysurally_3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="defb417f-8faf-4b51-9614-506b71f7ed4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1bpr558h09zNz2LAeG8kAYNk3XZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ysurally_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ysurally_3" TARGET_NAME="ysurally_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ysurally_3" RUN_TARGET_NAME="ysurally_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="defb417f-8faf-4b51-9614-506b71f7ed4a" name="Default Changelist" comment="" />
+      <created>1589339689042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589339689042</updated>
+      <workItem from="1589339690594" duration="3454000" />
+      <workItem from="1589424523279" duration="14748000" />
+      <workItem from="1589511724141" duration="57000" />
+      <workItem from="1590195725030" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="788" y="333" key="FileChooserDialogImpl" timestamp="1590195779334">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state x="788" y="333" key="FileChooserDialogImpl/0.0.1728.1122@0.0.1728.1122" timestamp="1590195779334" />
+    <state width="1729" height="314" key="GridCell.Tab.0.bottom" timestamp="1589508842629">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state width="1729" height="314" key="GridCell.Tab.0.bottom/0.0.1728.1122@0.0.1728.1122" timestamp="1589508842629" />
+    <state width="1729" height="314" key="GridCell.Tab.0.center" timestamp="1589508842629">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state width="1729" height="314" key="GridCell.Tab.0.center/0.0.1728.1122@0.0.1728.1122" timestamp="1589508842629" />
+    <state width="1729" height="314" key="GridCell.Tab.0.left" timestamp="1589508842629">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state width="1729" height="314" key="GridCell.Tab.0.left/0.0.1728.1122@0.0.1728.1122" timestamp="1589508842629" />
+    <state width="1729" height="314" key="GridCell.Tab.0.right" timestamp="1589508842629">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state width="1729" height="314" key="GridCell.Tab.0.right/0.0.1728.1122@0.0.1728.1122" timestamp="1589508842629" />
+    <state width="1729" height="314" key="GridCell.Tab.1.bottom" timestamp="1589508842629">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state width="1729" height="314" key="GridCell.Tab.1.bottom/0.0.1728.1122@0.0.1728.1122" timestamp="1589508842629" />
+    <state width="1729" height="314" key="GridCell.Tab.1.center" timestamp="1589508842629">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state width="1729" height="314" key="GridCell.Tab.1.center/0.0.1728.1122@0.0.1728.1122" timestamp="1589508842629" />
+    <state width="1729" height="314" key="GridCell.Tab.1.left" timestamp="1589508842629">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state width="1729" height="314" key="GridCell.Tab.1.left/0.0.1728.1122@0.0.1728.1122" timestamp="1589508842629" />
+    <state width="1729" height="314" key="GridCell.Tab.1.right" timestamp="1589508842629">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state width="1729" height="314" key="GridCell.Tab.1.right/0.0.1728.1122@0.0.1728.1122" timestamp="1589508842629" />
+    <state x="862" y="443" width="672" height="678" key="search.everywhere.popup" timestamp="1589431922327">
+      <screen x="0" y="0" width="1728" height="1122" />
+    </state>
+    <state x="862" y="443" width="672" height="678" key="search.everywhere.popup/0.0.1728.1122@0.0.1728.1122" timestamp="1589431922327" />
+  </component>
+</project>
