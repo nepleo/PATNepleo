@@ -3,4 +3,4 @@ project(PATNepleo)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(PATNepleo  ./Basic_C++/1002.cpp)
+add_executable(PATNepleo  Basic_C++/1003.cpp)
