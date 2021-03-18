@@ -1,0 +1,20 @@
+#include<iostream>
+#include<string>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+bool isprime(int n) {
+    for (int i = 2; i * i <= n; i++)
+        if (n % i == 0) return false;
+    return true;
+}
+
+int main() {
+    int n, cnt = 0;
+    cin >> n;
+    for (int i = 5; i <= n; i++)
+        if (isprime(i - 2) && isprime(i))
+            cnt++;
+     cout << cnt;
+}
